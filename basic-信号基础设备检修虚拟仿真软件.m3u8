@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:59
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:59.000000,
+basic-信号基础设备检修虚拟仿真软件-00000.ts
+#EXTINF:59.000000,
+basic-信号基础设备检修虚拟仿真软件-00001.ts
+#EXTINF:59.000000,
+basic-信号基础设备检修虚拟仿真软件-00002.ts
+#EXTINF:59.000000,
+basic-信号基础设备检修虚拟仿真软件-00003.ts
+#EXTINF:3.333333,
+basic-信号基础设备检修虚拟仿真软件-00004.ts
+#EXT-X-ENDLIST
